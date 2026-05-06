@@ -17,11 +17,11 @@ This project implements an ETL (Extract, Transform, Load) pipeline for a large c
 The data is stored in a PostgreSQL table named `cybersecurity_logs` with automatically inferred column types based on the data structure.
 
 ## Files
-- `extract.ipynb`: Data extraction from CSV
-- `Transform.ipynb`: Data cleaning and transformation
-- `Load.ipynb`: Loading data into PostgreSQL
-- `Data/`: Directory containing source and intermediate data files
-- `screenshots/`: Directory containing project screenshots
+- `extract.ipynb`: Data extraction from CSV.
+- `Transform.ipynb`: Data cleaning and transformation.
+- `Load.ipynb`: Loading data into PostgreSQL.
+- `Data/`: Directory containing source and intermediate data files.
+- `screenshots/`: Directory containing project screenshots.
 
 ## Screenshots
 
