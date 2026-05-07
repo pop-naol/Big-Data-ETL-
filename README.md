@@ -36,7 +36,7 @@ The data is stored in a PostgreSQL table named `cybersecurity_logs` with automat
 
 GROUP 4 Members
 
-1.SELMAN MOHAMMED  1501463
+1.NAOL SIME        1501391
 
 2.MARAMAWIT ZELEKE 1501334
 
@@ -44,7 +44,7 @@ GROUP 4 Members
 
 4.SELAMAWIT GIRMA  1501458
 
-5.NAOL SIME        1501391
+5.SELMAN MOHAMMED  1501463
 
 6.NUREDIN SEID     1501419
 
